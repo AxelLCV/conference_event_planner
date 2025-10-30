@@ -7,7 +7,7 @@ export const venueSlice = createSlice({
     {
       img: "https://pixabay.com/images/download/chairs-2181916_640.jpg",
       name: "Conference Room (Capacity:15)",
-      cost: 3500,
+      cost: 3000,
       quantity: 0,
     },
     {
